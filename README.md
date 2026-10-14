@@ -1,16 +1,27 @@
-## Hi there 👋
+Привет! 👋 Меня зовут Алёна
 
-<!--
-**AlenaSenishina/AlenaSenishina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Я изучаю программирование и работу с GitHub.
 
-Here are some ideas to get you started:
+🌱 Что я изучаю
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Git и GitHub
+* Markdown
+* Основы программирования
+
+🛠️ Мои инструменты
+
+* Git
+* GitHub
+* Visual Studio Code
+
+📂 Мой учебный проект
+
+Мой репозиторий alenas
+
+📫 Контакты
+
+* GitHub: @AlenaSenishina
+
+⸻
+
+✨ Спасибо, что заглянули в мой профиль!
