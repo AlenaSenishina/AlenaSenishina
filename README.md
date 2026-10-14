@@ -16,5 +16,5 @@ I’m eager to learn new skills, build projects, and grow as a developer.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Figma](https://shields.io)
-![Photopea](https://shields.io)
+![Figma](https://img.shields.io/badge/-Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
+![Photopea](https://img.shields.io/badge/-Photopea-%2318A497?style=flat-square&logo=photopea&logoColor=ffffff)
