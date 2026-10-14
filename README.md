@@ -1,20 +1,15 @@
-🎓 Я изучаю программирование и работу с GitHub.
-🌱 Что я изучаю
-* Git и GitHub
+Hi there! 👋 I’m Alena
+🎓 I’m a beginner developer learning programming and exploring the world of technology.
+🌱 What I’m Learning
+* Git and GitHub
 * Markdown
-* Основы программирования
-🛠️ Мои инструменты
+* Programming fundamentals
+🛠️ Tools & Technologies
 * Git
 * GitHub
 * Visual Studio Code
-📂 Мой учебный проект
-
-Мой репозиторий alenas
-
-📫 Контакты
-
-* GitHub: @AlenaSenishina
-
-⸻
-
-✨ Спасибо, что заглянули в мой профиль!
+📂 My Projects
+* My Learning Repository
+🎯 My Goal
+I’m eager to learn new skills, build projects, and grow as a developer.
+✨ Thanks for visiting my profile!
