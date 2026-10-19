@@ -22,3 +22,6 @@ I'm eager to learn new skills, build projects, and grow as a developer.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-23F4E1?style=flat-square&logo=figma&logoColor=white)
 ![Photopea](https://img.shields.io/badge/-Photopea-2318A497?style=flat-square&logo=photopea&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=capcut&logoColor=white)
+![InVision Studio](https://img.shields.io/badge/InVision%20Studio-FF3366?style=flat-square&logo=invision&logoColor=white)
